@@ -1,0 +1,34 @@
+div.form{
+    background-color: lightpink;
+    width: 12cm;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+label{
+    width: 140px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+    color: blueviolet;
+}
+input#contactname:hover{
+    background-color: lightblue;
+}
+input#firstname:hover{
+    background-color: lightblue;
+}
+input#lastname:hover{
+    background-color: lightblue;
+}
+input#fathername:hover{
+    background-color: lightblue;
+}
+input#email:hover{
+    background-color: lightblue;
+}
+input#submit:hover{
+background-color: green;
+}
