@@ -32,3 +32,6 @@ input#email:hover{
 input#submit:hover{
 background-color: green;
 }
+fieldset{
+    color: blue;
+}
